@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文本编辑器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="screen_title">文本编辑器</string>
+    
+    <string name="button_clear">C</string>
+	<string name="description_cool_smiley">Cool Smiley Button</string>
+	<string name="description_crying_smiley">Crying Smiley button</string>
+</resources>
